@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Quick Tug</string>
+    <string name="fistActivity_error_internet">Internet connection error !</string>
+    <string name="fistActivity_error_server">Server error ! Please try again later !</string>
+    <string name="fistActivity_error_server_maintenance">Server is under maintenance ! Please try again later !</string>
+    <string name="fistActivity_error_app_version">Please update lastest version !</string>
+    <string name="register_email_must_match">Email confirm mismatch !</string>
+    <string name="register_error_1">Error occurred when register !</string>
+    <string name="register_error_2">User already existed</string>
+    <string name="register_error_3">Device already registered !</string>
+    <string name="register">Register your email with Quick Tug and starting earning rewards within minutes! Please note that all of your giftcards will be send to email address.</string>
+    <string name="fill_all_field">Please fill all fields !</string>
+    <string name="invite1">Share this Quick Tug app with your friends! Quick Tug pay you 200 creadits for each.The great news is that that also earn 200 credits!</string>
+    <string name="invite2">Your invite code :  </string>
+    <string-array name="listview_icon_reward">
+        <item>@drawable/amazonicon</item>
+        <item>@drawable/paypalicon</item>
+        <item>@drawable/perfectmoney</item>
+        <item>@drawable/webmoney</item>
+        <item>@drawable/ic_facebookcredits</item>
+        <item>@drawable/ic_ultimate</item>
+        <item>@drawable/ic_zynga</item>
+    </string-array>
+    <string-array name="listview_titles">
+        <item>IronSource</item>
+        <item>Fyber</item>
+    </string-array>
+    <string-array name="listview_icons">
+        <item>@drawable/ic_ironsource</item>
+        <item>@drawable/ic_fyber</item>
+    </string-array>
+
+    <string-array name="listview_titles_reward">
+        <item>Amazon Gift Card </item>
+        <item>Paypal Cash</item>
+        <item>Perfect Money</item>
+        <item>Webmoney</item>
+        <item>Facebook Gift Card</item>
+        <item>Ultimate Game Card</item>
+        <item>Zynga Card</item>
+    </string-array>
+    <string-array name="listview_description_reward">
+        <item>Send to email.No refunds</item>
+        <item>Send to email.No refunds</item>
+        <item>Send to email.No refunds</item>
+        <item>Send to email.No refunds</item>
+        <item>Send to email.No refunds</item>
+        <item>Send to email.No refunds</item>
+        <item>Send to email.No refunds</item>
+    </string-array>
+    <string-array name="listview_credits_reward">
+        <item>Coins</item>
+        <item>Coins</item>
+        <item>Coins</item>
+        <item>Coins</item>
+        <item>Coins</item>
+        <item>Coins</item>
+        <item>Coins</item>
+    </string-array>
+</resources>
